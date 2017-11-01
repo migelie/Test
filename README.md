@@ -9,3 +9,5 @@
 юзер 2 коммитит через rebase
 
 user 1 again commit
+
+user 2 rebase commit
